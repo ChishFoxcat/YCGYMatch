@@ -1,4 +1,6 @@
-## 计算机编程常用英语单词
+# 计算机编程常用英语单词
+> ## 快捷跳转
+> [A](#A) B  C  [D](#D)  E  F  G  H  I  J  K  L  M  N  O
 
 ### A
 | 英文 | 翻译 | 备注 |
@@ -21,7 +23,7 @@
 |atomic|不可分割的，原子的||
 |attribute|属性、特性||
 |audio|音讯，音频||
-|A.I.|人工智慧，人工智能|缩写 `Amnesty International`|
+|A.I.|人工智慧，人工智能|缩写 *`Amnesty International`*|
 
 ### B
 | 英文 | 翻译 | 备注 |
@@ -65,9 +67,9 @@
 |candidate function|候选函式|在函式多载决议程序中出现的候选函式|
 |chain|串链，链|例 `chain of function calls`|
 |character|字元，字符||
-|check box|核取方块，复选框|**i.e. check button**|
+|check box|核取方块，复选框|*i.e. check button*|
 |checked exception|可控式异常(Java)||
-|check button|方钮，复选按钮|**i.e. check box**|
+|check button|方钮，复选按钮|*i.e. check box*|
 |child class|子类别，子类|或称为 `derived class`, `subtype`|
 |class|类别，类||
 |class body|类别本体，类体||
@@ -117,3 +119,69 @@
 |creation|产生、生成，创建||
 |cursor|游标，光标||
 |custom|订制、自定，定制||
+
+### D
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|data|资料，数据||
+|database|资料库，数据库||
+|database schema|数据库结构纲目||
+|data member|资料成员、成员变数，数据成员、成员变量||
+|data structure|资料结构，数据结构||
+|datagram|资料元，数据报文||
+|dead lock|死结，死锁||
+|debug|除错，调试||
+|debugger|除错器，调试器||
+|declaration|宣告、宣告式，声明||
+|deduction|推导、推断|例：`template argument deduction`|
+|default|预设，缺省、默认||
+|defer|延缓，推迟||
+|define|定义，预定义||
+|definition|定义、定义区、定义式||
+|delegate|委派、委托、委任||
+|delegation|委派、委托、委任||
+|demarshal|反编列，散集||
+|dereference|提领，解叁考|提领->取出指标所指物体的内容|
+|derived class|衍生类别，派生类||
+|design by contract|契约式设计||
+|design pattern|设计范式、设计样式、设计模式|※ 最近我比较喜欢「设计范式」一词|
+|destroy|摧毁、销毁||
+|destructor|解构式，析构函数||
+|device|装置、设备||
+|dialog|对话窗、对话盒、对话框||
+|directive|指令，(编译)指示符|例：`using directive`|
+|directory|目录，目录||
+|disk|碟，盘||
+|dispatch|分派||
+|distributed computing|分布式计算(分布式电算)、分布式计算、分散式计算(分散式电算)||
+|document|文件，文档||
+|driver|驱动程式，驱动（程序）||
+|dynamic binding|动态系结，动态绑定||
+
+### E
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|efficiency|效率||
+|efficient|高效||
+|end user|终端用户||
+|entity|实体、物体||
+|encapsulation|封装||
+|enclosing class|外围类别，外围类|与巢状类别 `nested class` 有关|
+|enum|列举，枚举|`enumeration` 一种 **C++** 资料型别|
+|enumerators|列举元，枚举成员、枚举器|`enum` 型别中的成员|
+|equal|相等||
+|equality|相等性||
+|equivalence|等价性、等同性、对等性||
+|equivalent|等价、等同、对等||
+|escape code|转义码||
+|evaluate|评估、求值、核定||
+|event|事件||
+|event driven|事件驱动的||
+|exception|异常情况，异常||
+|exception declaration|异常宣告，异常声明|*ref. C++ Primer 3/e, 11.3*|
+|exception handling|异常处理、异常处理机制||
+|exception specification|异常规格，异常规范|*ref. C++ Primer 3/e, 11.4*|
+|exit|退离，退出|指离开函式时的那一个执行点|
+|explicit|明白的、明显的、显式||
+|export|汇出、引出、导出||
+|expression|运算式、算式，表达式||
