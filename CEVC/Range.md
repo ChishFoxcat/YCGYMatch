@@ -1,6 +1,6 @@
 # 计算机编程常用英语单词
 > ## 快捷跳转
-> [A](#A) B  C  [D](#D)  E  F  G  H  I  J  K  L  M  N  O
+> [A](#A) [B](#B)  [C](#C)  [D](#D)  [E](#E)  [F](#F)  [G](#G)  [H](#H)  [I](#I)  [J](#J)  [K](#K)  [L](#L)  [M](#M)  [N](#N)  [O](#O)
 
 ### A
 | 英文 | 翻译 | 备注 |
@@ -185,3 +185,110 @@
 |explicit|明白的、明显的、显式||
 |export|汇出、引出、导出||
 |expression|运算式、算式，表达式||
+
+### F
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|facility|设施、设备||
+|feature|特性||
+|field|栏位,资料栏（Java）<br>字段, 值域（Java）||
+|file|档案，文件||
+|firmware|韧体，固件||
+|flag|旗标，标记||
+|flash memory|快闪记忆体，闪存||
+|flexibility|弹性，灵活性||
+|flush|清理、扫清，刷新||
+|font|字型，字体||
+|form|表单，窗体|`programming` 用语|
+|formal parameter|形式叁数，形式叁数||
+|forward declaration|前置宣告，前置声明||
+|forwarding|转呼叫，转发||
+|forwarding function|转呼叫函式,转发函式||
+|fractal|碎形，分形||
+|framework|框架||
+|full specialization|全特化|*ref. partial specialization*|
+|function|函式、函数||
+|function call operator|函数调用运算符|同 `call operator`|
+|function object|函式物件，函数对象|*ref. C++ Primer 3/e, 12.3*|
+|function overloaded resolution|函式多载决议程序，函数重载解决（方案）||
+|functionality|功能、机能||
+|function template|函式模板、函式范本||
+|functor|仿函式、函子||
+
+### G
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|game|游戏||
+|generate|生成||
+|generic|泛型、一般化的、通用的、泛化||
+|generic algorithm|泛型演算法，通用算法||
+|getter|取值函式|相对于 `setter`|
+|global|全域的，全局的|对应于 `local`|
+|global object|全域物件，全局对象||
+|global scope resolution operator|全域生存空间（范围决议）运算子<br> :: 全局范围解析操作符||
+|group|群组||
+|group box|群组方块，分组框||
+|guard clause|卫述句，卫语句|Refactoring, p250|
+|GUI|图形介面，图形界面||
+
+### H
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|hand shaking|握手协商||
+|handle|识别码、识别号、号码牌、权柄、句柄||
+|handler|处理常式，处理函数||
+|coded|编死的，硬编码的||
+|copy|硬拷图，屏幕截图||
+|hard disk|硬碟，硬盘||
+|hardware|硬体，硬件||
+|hash table|杂凑表，哈希表、散列表||
+|header file|表头档、标头档，头文件||
+|heap|堆积，堆||
+|hierarchy|阶层体系，层次结构（体系）||
+|hook|挂钩，钩子||
+|hyperlink|超链结，超链接||
+
+### I
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|icon|图示、图标||
+|IDE|整合开发环境，集成开发环境||
+|identifier|识别字、识别符号，标识符||
+|if and only if|若且唯若，当且仅当||
+|Illinois|伊利诺，伊利诺斯||
+|image|影像，图象||
+|immediate base|直接的（紧临的）上层，直接上层基类|`base class`|
+|immediate derived|直接的（紧临的）下层，直接下层派生类|`derived class`|
+|immutability|不变性||
+|immutable|不可变（的）||
+|implement|实作、实现||
+|implementation|实作品、实作体、实作码、实件、实现||
+|implicit|隐喻的、暗自的、隐式、隐式||
+|import|汇入，导入||
+|increment operator|累加运算子<br> ++ 增加操作符||
+|infinite loop|无穷回圈，无限循环||
+|infinite recursive|无穷递回，无限递归||
+|information|资讯，信息||
+|infrastructure|公共基础建设||
+|inheritance|继承、继承机制||
+|inline|行内，内联||
+|inline expansion|行内展开，内联展开||
+|initialization|初始化（动作）||
+|initialization list|初值列，初始值列表||
+|initialize|初始化||
+|inner class|内隐类别，内嵌类||
+|instance|实体，实例|根据某种表述而实际产生的 **「东西」**|
+|instantiated|具现化、实体化、实例化|常应用于 `template`|
+|instantiation|具现体、具现化实体、实例|常应用于 `template`|
+|integer|整数（的）|(integral) |
+|integrate|整合，集成||
+|interacts|交谈、互动、交互||
+|interface|介面，接口|`for GUI` 介面，界面|
+|interpreter|直译器，解释器||
+|invariants|恒常性，约束条件||
+|invoke|唤起，调用||
+|iterate|迭代|回圈一个轮回一个轮回地进行|
+|iterative|反覆的，迭代的||
+|iterator|迭代器|一种泛型指标|
+|iteration|迭代|回圈每次轮回称为一个 `iteration`|
+|item|项目、条款，项、条款、项目||
