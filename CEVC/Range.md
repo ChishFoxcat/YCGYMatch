@@ -1,8 +1,14 @@
 # 计算机编程常用英语单词
-> ## 快捷跳转
-> [A](#A) [B](#B)  [C](#C)  [D](#D)  [E](#E)  [F](#F)  [G](#G)  [H](#H)  [I](#I)  [J](#J)  [K](#K)  [L](#L)  [M](#M)  [N](#N)  [O](#O)
+> tips: 阅读或查找某个单词请点击相关单词的首字母或旁边的三角
 
-### A
+```
+2021-11-18
+- 第一次编辑更新日志
+- 整改整个页面的长度，已更改为折叠式查询
+```
+
+<details><summary><font size="4">A</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |application|应用程式，应用、应用程序||
@@ -24,8 +30,10 @@
 |attribute|属性、特性||
 |audio|音讯，音频||
 |A.I.|人工智慧，人工智能|缩写 *`Amnesty International`*|
+</details>
 
-### B
+<details><summary><font size="4">B</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |background|背景|用于图形着色|
@@ -57,8 +65,10 @@
 |business|商务,业务||
 |buttons|按钮||
 |byte|位元组，字节|由 `8 bits` 组成|
+</details>
 
-### C
+<details><summary><font size="4">C</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |cache|快取，高速缓存||
@@ -119,8 +129,10 @@
 |creation|产生、生成，创建||
 |cursor|游标，光标||
 |custom|订制、自定，定制||
+</details>
 
-### D
+<details><summary><font size="4">D</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |data|资料，数据||
@@ -157,8 +169,10 @@
 |document|文件，文档||
 |driver|驱动程式，驱动（程序）||
 |dynamic binding|动态系结，动态绑定||
+</details>
 
-### E
+<details><summary><font size="4">E</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |efficiency|效率||
@@ -185,8 +199,10 @@
 |explicit|明白的、明显的、显式||
 |export|汇出、引出、导出||
 |expression|运算式、算式，表达式||
+</details>
 
-### F
+<details><summary><font size="4">F</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |facility|设施、设备||
@@ -214,8 +230,10 @@
 |functionality|功能、机能||
 |function template|函式模板、函式范本||
 |functor|仿函式、函子||
+</details>
 
-### G
+<details><summary><font size="4">G</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |game|游戏||
@@ -230,8 +248,10 @@
 |group box|群组方块，分组框||
 |guard clause|卫述句，卫语句|Refactoring, p250|
 |GUI|图形介面，图形界面||
+</details>
 
-### H
+<details><summary><font size="4">H</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |hand shaking|握手协商||
@@ -247,8 +267,10 @@
 |hierarchy|阶层体系，层次结构（体系）||
 |hook|挂钩，钩子||
 |hyperlink|超链结，超链接||
+</details>
 
-### I
+<details><summary><font size="4">I</font></summary>
+
 | 英文 | 翻译 | 备注 |
 |:-:|:-:|:-:|
 |icon|图示、图标||
@@ -292,3 +314,4 @@
 |iterator|迭代器|一种泛型指标|
 |iteration|迭代|回圈每次轮回称为一个 `iteration`|
 |item|项目、条款，项、条款、项目||
+</details>
