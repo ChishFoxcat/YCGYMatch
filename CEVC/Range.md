@@ -5,6 +5,9 @@
 2021-11-18
 - 第一次编辑更新日志
 - 整改整个页面的长度，已更改为折叠式查询
+2021-11-20
+- 更改部分单词错误
+- 新增L至M单词内容（#322-389）
 ```
 
 <details><summary><font size="4">A</font></summary>
@@ -257,8 +260,8 @@
 |hand shaking|握手协商||
 |handle|识别码、识别号、号码牌、权柄、句柄||
 |handler|处理常式，处理函数||
-|coded|编死的，硬编码的||
-|copy|硬拷图，屏幕截图||
+|hard-coded|编死的，硬编码的||
+|hard-copy|硬拷图，屏幕截图||
 |hard disk|硬碟，硬盘||
 |hardware|硬体，硬件||
 |hash table|杂凑表，哈希表、散列表||
@@ -314,4 +317,97 @@
 |iterator|迭代器|一种泛型指标|
 |iteration|迭代|回圈每次轮回称为一个 `iteration`|
 |item|项目、条款，项、条款、项目||
+</details>
+
+<details><summary><font size="4">L</font></summary>
+
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|laser|雷射，激光||
+|level|阶，层(级)|例 `high level` 高阶，高层|
+|library|程式库、函式库，库、函数库||
+|lifetime|生命期、寿命||
+|link|联结、连结，连接,链接||
+|linker|联结器、连结器，连接器||
+|literal constant|字面常数|例 3.14 或 "hi" 这等常数值|
+|list|串列（linked－list）<br>列表、表、链表||
+|list box|列表方块、列表框||
+|load|载入，装载||
+|loader|装载器、载入器||
+|local|区域的，局部的|对应于 `global`|
+|local object|区域物件，局部对象||
+|lock|机锁||
+|loop|回圈，循环||
+|lvalue|左值||
+</details>
+
+<details><summary><font size="4">M</font></summary>
+
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|macro|巨集，宏||
+|magic number|魔术数字，魔法数||
+|maintain|维护||
+|manipulator|操纵器|`iostream` 预先定义的一种东西|
+|marshal|编列，列集||
+|mechanism|机制||
+|member|成员||
+|member access operator|成员取用运算子，成员存取操作符|有 dot 和 arrow 两种|
+|member function|成员函式，成员函数||
+|member initialization list|成员初值列，成员初始值列表||
+|memberwise|以 member 为单元┅、members 逐一┅ 以成员为单位||
+|memberwise copy|以 members 为单元逐一复制||
+|memory|记忆体，内存||
+|menu|表单、选单，菜单||
+|message|讯息，消息||
+|message based|以讯息为基础的，基於消息的||
+|message loop|讯息回圈，消息环||
+|method|(java) 方法、行为、函式||
+|meta－|超－，元－|例 `meta－programming` 超编程，元编程|
+|micro|微||
+|middleware|中介层，中间件||
+|modeling|模塑||
+|modeling language|塑模语言，建模语言||
+|modem|数据机，调制解调器||
+|module|模组，模块||
+|modifier|饰词，修饰符||
+|most derived class|最末层衍生类别，最底层的派生类||
+|mouse|滑鼠，鼠标||
+|mutable|可变的||
+|multi-tasking|多工，多任务||
+</details>
+
+<details><summary><font size="4">N</font></summary>
+
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|namespace|名字空间、命名空间||
+|native|原生的，本地的、固有的||
+|nested class|巢状类别，嵌套类||
+|network|网路，网络||
+|network card|网路卡，网卡||
+</details>
+
+<details><summary><font size="4">O</font></summary>
+
+</details>
+
+<details><summary><font size="4">P</font></summary>
+
+</details>
+
+<details><summary><font size="4">Q</font></summary>
+
+</details>
+
+<details><summary><font size="4">R</font></summary>
+
+</details>
+
+<details><summary><font size="4">S</font></summary>
+
+</details>
+
+<details><summary><font size="4">T</font></summary>
+
 </details>
