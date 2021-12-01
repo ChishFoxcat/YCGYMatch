@@ -7,7 +7,10 @@
 - 整改整个页面的长度，已更改为折叠式查询
 2021-11-20
 - 更改部分单词错误
-- 新增L至M单词内容（#322-389）
+- 新增L至M单词内容
+2021-12-1
+- 新增N到P单词内容
+- 咕咕咕
 ```
 
 <details><summary><font size="4">A</font></summary>
@@ -390,10 +393,80 @@
 
 <details><summary><font size="4">O</font></summary>
 
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|object|物件，对象||
+|object based|以物件为基础的，基於对象的||
+|object file|目的档，目标文件||
+|object model|物件模型，对象模型||
+|object oriented|物件导向的，面向对象的||
+|online|线上，在线||
+|opaque|不透明的||
+|operand|运算元，操作数||
+|operating system|作业系统，操作系统|*(OS)*|
+|operation|操作、操作行为||
+|operator|运算子，操作符、运算符||
+|option|选项，可选方案||
+|ordinary|常规的||
+|overflow|上限溢位，溢出|相对于 `underflow`(下溢)|
+|overhead|额外负担、额外开销|
+|overload|多载化、多载化、重载||
+|overloaded function|多载化函式，重载的函数||
+|overloaded operator|多载化运算子，被重载的操作符||
+|overloaded set|多载集合，重载集合||
+|override|改写、覆写，重载、改写、重新定义|在 `derived class` 中重新定义虚拟函式|
 </details>
 
 <details><summary><font size="4">P</font></summary>
 
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|package|套件，包||
+|pair|对组||
+|palette|调色盘、组件盘、工具箱||
+|pane|窗格|有时为嵌板之意，例 `Java Content Pane`|
+|parallel|平行，并行||
+|parameter|叁数、形式叁数、形叁|函式叁数列上的变数|
+|parameter list|叁数列，叁数列表||
+|parent class|父类别，父类|或称 `base class`|
+|parentheses|小括弧、小括号，圆括弧、圆括号||
+|parse|解析||
+|part|零件，部件||
+|partial specialization|偏特化，局部特化|1.*ref. C++ Primer 3/e, 16.10*<br>2.*ref. full specialization*|
+|pass by address|传址，传地址|**（非正式用语）** 函式引数的传递方式|
+|pass by reference|传址（函式引数的一种传递方式） 传地址, 按引用传递||
+|pass by value|传值（函式引数的一种传递方式） 按值传递||
+|pattern|范式、样式 模式||
+|performance|效率、性能兼而有之 性能||
+|persistence|永续性 持久性||
+|pixel|图素、像素 像素||
+|platform|平台 平台||
+|pointer|指标 指针 址位器（和址叁器 reference 形成对映，满好）||
+|poll|轮询 轮询||
+|polymorphism|多型 多态||
+|pop up|冒起式、弹出式 弹出式||
+|port|埠 端口||
+|postfix|后置式、后序式 后置式||
+|precedence|优先序（通常用於运算子的优先执行次序）||
+|prefix|前置式、前序式 前置式||
+|preprocessor|前处理器 预处理器||
+|prime|质数 素数||
+|primitive type|基本型别 (不同於 base class,基础类别)||
+|print|列印 打印||
+|printer|印表机 打印机||
+|priority|优先权 (通常用於执行绪获得 CPU 时间的优先次序）||
+|procedure|程序 过程||
+|procedural|程序性的、程序式的 过程式的、过程化的||
+|process|行程 进程||
+|profile|评测 评测||
+|profiler|效能（效率）评测器 效能（性能）评测器||
+|programmer|程式员 程序员||
+|programming|编程、程式设计、程式化 编程||
+|progress bar|进度指示器 进度指示器||
+|project|专案 项目、工程||
+|property|属性||
+|protocol|协定 协议||
+|pseudo code|假码、虚拟码、伪码 伪码||
 </details>
 
 <details><summary><font size="4">Q</font></summary>
