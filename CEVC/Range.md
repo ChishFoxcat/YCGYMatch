@@ -11,6 +11,9 @@
 2021-12-1
 - 新增N到P单词内容
 - 咕咕咕
+2021-12-4
+- 整合P单词内容
+- 新增Q到T单词内容
 ```
 
 <details><summary><font size="4">A</font></summary>
@@ -434,53 +437,148 @@
 |part|零件，部件||
 |partial specialization|偏特化，局部特化|1.*ref. C++ Primer 3/e, 16.10*<br>2.*ref. full specialization*|
 |pass by address|传址，传地址|**（非正式用语）** 函式引数的传递方式|
-|pass by reference|传址（函式引数的一种传递方式） 传地址, 按引用传递||
-|pass by value|传值（函式引数的一种传递方式） 按值传递||
-|pattern|范式、样式 模式||
-|performance|效率、性能兼而有之 性能||
-|persistence|永续性 持久性||
-|pixel|图素、像素 像素||
-|platform|平台 平台||
-|pointer|指标 指针 址位器（和址叁器 reference 形成对映，满好）||
-|poll|轮询 轮询||
-|polymorphism|多型 多态||
-|pop up|冒起式、弹出式 弹出式||
-|port|埠 端口||
-|postfix|后置式、后序式 后置式||
-|precedence|优先序（通常用於运算子的优先执行次序）||
-|prefix|前置式、前序式 前置式||
-|preprocessor|前处理器 预处理器||
-|prime|质数 素数||
-|primitive type|基本型别 (不同於 base class,基础类别)||
-|print|列印 打印||
-|printer|印表机 打印机||
-|priority|优先权 (通常用於执行绪获得 CPU 时间的优先次序）||
-|procedure|程序 过程||
-|procedural|程序性的、程序式的 过程式的、过程化的||
-|process|行程 进程||
-|profile|评测 评测||
-|profiler|效能（效率）评测器 效能（性能）评测器||
-|programmer|程式员 程序员||
-|programming|编程、程式设计、程式化 编程||
-|progress bar|进度指示器 进度指示器||
-|project|专案 项目、工程||
+|pass by reference|传址，传地址, 按引用传递|函式引数的一种传递方式|
+|pass by value|传值，按值传递|函式引数的一种传递方式|
+|pattern|范式、样式，模式||
+|performance|效率、性能兼而有之，性能||
+|persistence|永续性，持久性||
+|pixel|图素、像素||
+|platform|平台||
+|pointer|指标，指针，址位器|和址叁器 `reference` 形成对映，满好|
+|poll|轮询||
+|polymorphism|多型，多态||
+|pop up|冒起式、弹出式||
+|port|埠，端口||
+|postfix|后置式、后序式||
+|precedence|优先序|通常用於运算子的优先执行次序|
+|prefix|前置式、前序式||
+|preprocessor|前处理器，预处理器||
+|prime|质数，素数||
+|primitive type|基本型别|不同於 `base class`, 基础类别|
+|print|列印，打印||
+|printer|印表机，打印机||
+|priority|优先权|通常用於执行绪获得 CPU 时间的优先次序|
+|procedure|程序，过程||
+|procedural|程序性的、程序式的，过程式的、过程化的||
+|process|行程，进程||
+|profile|评测||
+|profiler|效能（效率/性能）评测器||
+|programmer|程式员，程序员||
+|programming|编程、程式设计、程式化||
+|progress bar|进度指示器||
+|project|专案，项目、工程||
 |property|属性||
-|protocol|协定 协议||
-|pseudo code|假码、虚拟码、伪码 伪码||
+|protocol|协定，协议||
+|pseudo code|假码、虚拟码、伪码||
 </details>
 
 <details><summary><font size="4">Q</font></summary>
 
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|qualified|经过资格修饰，限定|例如加上 `scope` 运算子|
+|qualifier|资格修饰词、饰词，限定修饰词||
+|quality|品质，质量||
+|queue|伫列，队列||
 </details>
 
 <details><summary><font size="4">R</font></summary>
 
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|radian|径度，弧度||
+|radio button|圆钮，单选按钮||
+|raise|引发，引起、引发|常用来表示发出一个 `exception`|
+|random number|随机数、乱数||
+|range|范围、区间；范围、区间|用於 *STL* 时|
+|rank|等级、分等|*ref. C++Primer 3/e 9,15章*|
+|raw|生鲜的、未经处理的||
+|record|记录||
+|recordset|记录集||
+|recursive|递回，递归||
+|re-direction|重导向，重定向||
+|refactoring|重构、重整||
+|refer|取用，叁考||
+|refer to|指向、指涉、指代||
+|reference|引用、叁考址叁器|1. C++ 中类似指标的东西，相当於 "化身"<br>2. 叁考址叁器, `see pointer`|
+|register|暂存器，寄存器||
+|reflection|反射、映像||
+|relational database|关联式资料库，关系数据库||
+|represent|表述，表现||
+|resolve|决议|为算式中的符号名称寻找<br>解析对应之宣告式的过程|
+|resolution|决议程序、决议过程，解析过程||
+|resolution|解析度，分辨率||
+|restriction|局限||
+|return|传回、回返，返回||
+|return type|回返型别，返回类型||
+|return value|回返值，返回值||
+|robust|强固、稳健，健壮||
+|robustness|强固性、稳健性，健壮性||
+|routine|常式，例程||
+|runtime|执行期，运行期、运行时|`common language runtime (CLR)` 译为 **「通用语言执行层」**|
+|rvalue|右值||
 </details>
 
 <details><summary><font size="4">S</font></summary>
 
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|save|储存，存储||
+|schedule|排程，调度||
+|scheduler|排程器，调度程序||
+|scheme|结构纲目、组织纲目||
+|scroll bar|卷轴，滚动条||
+|scope|生存空间、生存范围、范畴、作用域||
+|scope operator|生存空间（范围决议）运算子|:: 生存空间操作符|
+|scope resolution operator|生存空间决议运算子，生存空间解析操作符|与 `scope operator` 同|
+|screen|萤幕，屏幕||
+|search|搜寻，查找||
+|semantics|语意，语义||
+|sequential container|序列式容器，顺序式容器|对应於 `associative container`|
+|server|伺服器、伺服端，服务器、服务端||
+|serial|串行||
+|serialization|次第读写，序列化|序列化 `serialize`|
+|setter|设值函式|相对於 `getter`|
+|signal|信号||
+|signature|标记式、签名式、署名式，签名||
+|slider|滚轴，滑块||
+|slot|条孔、槽||
+|smart pointer|灵巧指标、精灵指标，智能指针||
+|snapshot|萤幕快照（图），屏幕截图||
+|specialization|特殊化、特殊化定义、特殊化宣告，特化||
+|specification|规格、规范||
+|splitter|分裂视窗，切分窗口||
+|software|软体，软件||
+|solution|解法，解决方案、方案||
+|source|原始码，源码、源代码||
+|stack|堆叠，栈||
+|stack unwinding|堆叠辗转开解，栈辗转开解|此词用於 exception 主题|
+|standard library|标准程式库||
+|standard template library|标准模板程式库||
+|statement|述句，语句、声明||
+|status bar|状态列、状态栏，状态条||
+|STL||完整语句：*`standard template library`*|
+|stream|资料流、串流，流||
+|string|字串，字符串||
+|subscript operator|下标运算子，[ ]下标操作符||
+|subtype|子型别，类型||
+|support|支援，支持||
+|suspend|虚悬，挂起||
+|symbol|符号，记号||
+|syntax|语法||
 </details>
 
 <details><summary><font size="4">T</font></summary>
 
+| 英文 | 翻译 | 备注 |
+|:-:|:-:|:-:|
+|tag|标签，标记，索引标签，页签||
+|target|标的，目标|例 `target pointer`：标的指标|
+|task switch|工作切换，任务切换||
+|template|模板、范本||
+|template argument deduction|模板引数推导，模板叁数推导||
+|template explicit specialization|模板显式特化（版本），模板显式特化||
+|template parameter|模板叁数||
+|temporary object|暂时物件，临时对象||
+|text|文字，文本||
 </details>
